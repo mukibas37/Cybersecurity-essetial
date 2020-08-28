@@ -1,2 +1,2 @@
 # Cybersecurity-essetial
-cybersecurity essential assessment
+cybersecurity essential assignment
